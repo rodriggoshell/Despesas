@@ -3,7 +3,7 @@ import { Items } from '../types/Items';
 export const items: Items [] = [
 	{
 		 date: new Date(2021, 9, 10),
-		 category: 'Administratigo',
+		 category: 'Administrativo',
 		 title: 'Rh',
 		 value: 177.000
 	 },
